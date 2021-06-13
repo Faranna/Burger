@@ -1,0 +1,54 @@
+@media (min-width : 768px) and (max-width: 991px) {
+    .part_one h1 {
+        font-size: 74px;
+    }
+    .part_one h2 {
+        font-size: 68px;
+    }
+    .part_threefive h1 {
+        font-size: 22px;
+    }
+    .part_fourfive h1 {
+        font-size: 22px;
+    }
+    .part_4five h1 {
+        font-size: 20px;
+    }
+    .btn-custom {
+        padding: 3px 62px;
+        font-size: 14px;
+        
+    }
+    .position img {
+        width: 52%;
+    }
+    .red-sticker {
+        
+        width: 120px;
+        height: 120px;
+        border-radius: 120px;  
+    }
+    .red-stickerOne {
+        
+        margin-top: 9px;
+        margin-right: 10px;
+        margin-left: 10px;
+        width: 85%;
+    }
+    .red-stickerOne h1 {
+        
+        font-size: 52px;
+        
+        margin: 12px 0 0 18px;
+    }
+    .red-stickerOne span {
+        
+        font-size: 26px;
+        
+    }
+    .red-stickerOne h2 {
+        font-size: 25px;
+        padding-left: 32px;
+        margin: -2px 8px 0px -2px;
+    }
+}
